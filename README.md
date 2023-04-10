@@ -18,3 +18,7 @@ When the user selects ‘vm’ to view all the tasks assigned to them, the follo
    
    If the user selects a specific task, they should be able to choose to either mark the task as complete or edit the task. If the user chooses to mark a      task as complete, the ‘Yes’/’No’ value that describes whether the task has been completed or not should be changed to ‘Yes’. When the user chooses to      edit a task, the username of the person to whom the task is assigned or the due date of the task can be edited. The task can only be edited if it has
    not yet been completed.
+   
+ Add an option to generate reports to main menu of application
+ 
+ 
